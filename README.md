@@ -10,9 +10,9 @@ In general, you will need a copy of mkgallery2 to use (ok, parasite on) its "tem
 Available options
 -----------------
 
--h, --help -- this help
--d, --debug -- be verbose
--s, --setup=<template-dir> -- setup using template
--f, --refresh -- rebuild HTMLs only
+* -h, --help -- this help
+* -d, --debug -- be verbose
+* -s, --setup=*template-dir* -- setup using template
+* -f, --refresh -- rebuild HTMLs only
 
 Any other command line arguments will be printed and ignored.
